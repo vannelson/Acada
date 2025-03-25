@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Project Alpha",
+        "description": "A React project focusing on UI components."
+    },
+    {
+        "id": 2,
+        "name": "Project Beta",
+        "description": "A Node.js project handling backend services."
+    },
+    {
+        "id": 3,
+        "name": "Project Gamma",
+        "description": "A Fullstack project integrating React & Node.js."
+    },
+    {
+        "id": 4,
+        "name": "Project Delta",
+        "description": "A microservices architecture demo."
+    },
+    {
+        "id": 5,
+        "name": "Project Epsilon",
+        "description": "An e-commerce React SPA."
+    },
+    {
+        "id": 6,
+        "name": "Project Zeta",
+        "description": "A real-time chat application using WebSockets."
+    },
+    {
+        "id": 7,
+        "name": "Project Eta",
+        "description": "A REST API built with Express & TypeScript."
+    },
+    {
+        "id": 8,
+        "name": "Project Theta",
+        "description": "A GraphQL server prototype for a blogging platform."
+    },
+    {
+        "id": 9,
+        "name": "Project Iota",
+        "description": "A responsive landing page built with Tailwind CSS."
+    },
+    {
+        "id": 10,
+        "name": "Project Kappa",
+        "description": "A React Native mobile app for todo management."
+    },
+    {
+        "id": 11,
+        "name": "Project Lambda",
+        "description": "A serverless function deployment using AWS Lambda."
+    },
+    {
+        "id": 12,
+        "name": "Project Mu",
+        "description": "A portfolio site built with Next.js."
+    },
+    {
+        "id": 13,
+        "name": "Project Nu",
+        "description": "A data visualization dashboard using D3.js."
+    },
+    {
+        "id": 14,
+        "name": "Project Xi",
+        "description": "A Slack bot integration for developer workflows."
+    },
+    {
+        "id": 15,
+        "name": "Project Omicron",
+        "description": "A project management tool with Kanban boards."
+    },
+    {
+        "id": 16,
+        "name": "Project Pi",
+        "description": "An automated testing suite using Cypress."
+    },
+    {
+        "id": 17,
+        "name": "Project Rho",
+        "description": "A custom UI library built with Storybook."
+    },
+    {
+        "id": 18,
+        "name": "Project Sigma",
+        "description": "A machine learning microservice for image classification."
+    },
+    {
+        "id": 19,
+        "name": "Project Tau",
+        "description": "A Dockerized environment for continuous integration."
+    },
+    {
+        "id": 20,
+        "name": "Project Upsilon",
+        "description": "A PWA (Progressive Web App) for offline capabilities."
+    },
+    {
+        "id": 21,
+        "name": "Project Phi",
+        "description": "A pipeline automation tool for CI/CD workflows."
+    },
+    {
+        "id": 22,
+        "name": "Project Chi",
+        "description": "A multi-tenant SaaS application prototype."
+    },
+    {
+        "id": 23,
+        "name": "Project Psi",
+        "description": "An AI-driven code review assistant."
+    },
+    {
+        "id": 24,
+        "name": "Project Omega",
+        "description": "A high-availability load balancing setup in Kubernetes."
+    },
+    {
+        "id": 25,
+        "name": "Project Aeon",
+        "description": "A time-tracking and analytics dashboard."
+    },
+    {
+        "id": 26,
+        "name": "Project Helix",
+        "description": "A bioinformatics data processing pipeline."
+    },
+    {
+        "id": 27,
+        "name": "Project Corona",
+        "description": "A real-time weather monitoring service."
+    },
+    {
+        "id": 28,
+        "name": "Project Nexus",
+        "description": "A central API gateway for microservices."
+    },
+    {
+        "id": 29,
+        "name": "Project Zenith",
+        "description": "A cloud cost-optimization and alerting tool."
+    },
+    {
+        "id": 30,
+        "name": "Project Aurora",
+        "description": "A 3D visualization platform for scientific simulations."
+    },
+    {
+        "id": 31,
+        "name": "Project Borealis",
+        "description": "A climate data analytics interface."
+    },
+    {
+        "id": 32,
+        "name": "Project Titan",
+        "description": "A container orchestration research project."
+    },
+    {
+        "id": 33,
+        "name": "Project Atlas",
+        "description": "A global logistics and route planning system."
+    },
+    {
+        "id": 34,
+        "name": "Project Prometheus",
+        "description": "A user-behavior analytics and tracking suite."
+    },
+    {
+        "id": 35,
+        "name": "Project Hydra",
+        "description": "A plugin-based architecture for multi-service apps."
+    },
+    {
+        "id": 36,
+        "name": "Project Ares",
+        "description": "A security testing toolkit for web applications."
+    },
+    {
+        "id": 37,
+        "name": "Project Apollo",
+        "description": "A multi-tenant GraphQL federation example."
+    },
+    {
+        "id": 38,
+        "name": "Project Artemis",
+        "description": "An event-driven microservice using AWS SQS."
+    },
+    {
+        "id": 39,
+        "name": "Project Minerva",
+        "description": "A knowledge graph for semantic data linking."
+    },
+    {
+        "id": 40,
+        "name": "Project Vulcan",
+        "description": "A high-performance WASM-based server engine."
+    }
+]
